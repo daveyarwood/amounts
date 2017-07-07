@@ -1,0 +1,16 @@
+#controls {
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+#controls button {
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+}
+
+#content table {
+  font-size: 2em;
+}
